@@ -98,7 +98,7 @@ var descriptions = [
   },{
     "name": "Pulmonary Valve",
     "num": 15,
-    "description": "valve that is pulmonary"
+    "description": "The pulmonic valve is one of two valves that allow blood to leave the heart via the arteries. It is a one-way valve, meaning that blood cannot flow back into the heart."
   },{
     "name": "Tricuspid Valve",
     "num": 10,
@@ -114,7 +114,7 @@ var descriptions = [
   },{
     "name": "Aortic Valve",
     "num": 8,
-    "description": "valve close to aorta that does valve stuff"
+    "description": "The aortic valve is a valve in the human heart between the left ventricle and the aorta. It is one of the two semilunar valves of the heart, the other being the pulmonary valve."
   },{
     "name": "Decending Aorta",
     "num": 13,
@@ -130,7 +130,7 @@ var descriptions = [
   },{
     "name": "Left Atrium",
     "num": 7,
-    "description": "like right atrium but its on the left"
+    "description": "The upper right chamber of the heart. The left atrium receives oxygenated blood from the lungs and pumps it down into the left ventricle which delivers it to the body."
   },{
     "name": "Left Ventricle",
     "num": 12,
